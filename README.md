@@ -2,9 +2,9 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 ![](https://komarev.com/ghpvc/?username=castawhat)
 - Hi! I’m Josh. 
-- I’m interested in 3D Printing, Meshtastic, Linux and MacOS.
-- I’m currently learning Python!
+- I’m interested in 3D Printing, Meshtastic, Linux, MacOS and Game Shows.
+- I’m currently learning nothing!
 - I’m looking to collaborate on nothing at the moment - NO AI COLLABORATION PLEASE.
 - Say hey at hey [at] slitrostudio [dot] me
-- Pronouns: He/Him
+- Pronouns: he/they
 
