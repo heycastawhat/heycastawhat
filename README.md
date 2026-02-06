@@ -5,6 +5,6 @@
 - I’m interested in 3D Printing, Meshtastic, Linux, MacOS, Panel Shows, Homelabbing and Tech.
 - I’m currently learning nothing!
 - I’m looking to collaborate on nothing at the moment - NO AI COLLABORATION PLEASE.
-- Say hey at hey [at] slitrostudio [dot] me
+- Say hey at hey@slitrostudio.me
 - Pronouns: he/they
 
