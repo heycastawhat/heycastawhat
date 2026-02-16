@@ -3,6 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=castawhat)
 Heya! I'm Josh.
 I'm into 3D printing, Meshtastic, Linux, macOS, panel shows, homelabbing, and most things tech.
-Right now I'm taking a break from learning programming lanuages and not looking for collaborations. Especially anything AI-related.
+Right now I'm taking a break from learning programming languages and not looking for collaborations. Especially anything AI-related.
 Want to chat? Reach me at heya@slitro.studio
 Pronouns: he/they
